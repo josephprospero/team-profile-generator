@@ -9,7 +9,7 @@ test('Create Employee Object', () => {
     expect(employee.email).toBe('zak@gmail.com')
 });
 
-test('Get employee name', () => {
+test('Get Employee name', () => {
     const employee = new Employee('Zak', 111, 'zak@gmail.com');
 
     expect(employee.getName()).toEqual(expect.any(String));
