@@ -5,3 +5,4 @@ Hello! This is my team profile generator. It's a tool that's used to help give c
 https://drive.google.com/file/d/1MyMIo600o--RQ9a47Z9kDxr_kEW_gcNp/view?usp=sharing
 
 ## index.html Generated From the Video Demo
+https://github.com/josephprospero/team-profile-generator/blob/main/dist/index.html
